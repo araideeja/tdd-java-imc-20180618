@@ -35,6 +35,7 @@
 
 ## References
 * [TDD with Spring Boot 2.x](https://github.com/up1/course-java-framework-with-springboot/blob/master/slide/SCK-JAVA-FRAMEWORK-01.pdf)
+* [Documentation of Spring Boot Test](https://docs.spring.io/spring-boot/docs/current/reference/html/boot-features-testing.html)
 
 ## Books
 * [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
