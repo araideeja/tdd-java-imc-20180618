@@ -1,4 +1,4 @@
-# Note frin TDD with Java at IMC Institute (2018/06/18)
+# Note from TDD with Java at IMC Institute (2018/06/18)
 * TDD concept
 * Red-Green-Refactoring (RGR)
 * Working with JUnit 4
