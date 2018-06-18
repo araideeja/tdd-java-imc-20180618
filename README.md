@@ -41,3 +41,4 @@
 * [Extreme Programming](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0321278658)
 * [Refactoring](https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672)
 * [Test-Driven Development by Example](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530)
+* [Code Smell](https://sourcemaking.com/refactoring/smells)
