@@ -43,3 +43,10 @@
 * [Refactoring](https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672)
 * [Test-Driven Development by Example](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530)
 * [Code Smell](https://sourcemaking.com/refactoring/smells)
+
+## List of Softwares
+* [Apache Maven](https://maven.apache.org/)
+* [Git SCM](https://git-scm.com/)
+* [Jenkins](https://jenkins.io/)
+* [Spring Boot](https://spring.io/projects/spring-boot)
+* [Cobertura](http://cobertura.github.io/cobertura/)
