@@ -1,27 +1,43 @@
 package com.example.demo;
 
 import static org.junit.Assert.*;
-
-import java.util.Random;
-
 import org.junit.Test;
 
 public class MyRandomTest {
 
     @Test
     public void test() {
-        Random random = new Random5();
+        IRandom random = new Random5();
         MyRandom myRandom = new MyRandom(random);
-        int actualResult = myRandom.generate();
-        
+        int actualResult = myRandom.generate();   
         assertEquals(5, actualResult);
     }
+    
+    @Test
+    public void check_call() {
+        Random6 spyRandom = new Random6();
+        MyRandom myRandom = new MyRandom(spyRandom);
+        myRandom.generate();  
+        assertEquals(2, spyRandom.called);
+    }
+    
+}
+class Random6 implements IRandom {
+    public int called = 0;;
 
+    @Override
+    public int getNumber() {
+        called++;
+        return 6;
+    }
+    
 }
 
-class Random5 extends Random {
+
+class Random5 implements IRandom {
     @Override
-    protected int next(int bits) {
+    public int getNumber() {
         return 5;
     }
+    
 }
