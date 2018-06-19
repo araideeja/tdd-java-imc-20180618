@@ -50,3 +50,8 @@
 * [Jenkins](https://jenkins.io/)
 * [Spring Boot](https://spring.io/projects/spring-boot)
 * [Cobertura](http://cobertura.github.io/cobertura/)
+
+## Mocking tools
+* [Mockito](http://site.mockito.org/)
+* [jMock](http://jmock.org/)
+* [PowerMock](https://github.com/powermock/powermock)
