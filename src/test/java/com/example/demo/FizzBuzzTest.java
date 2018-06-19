@@ -15,7 +15,7 @@ public class FizzBuzzTest {
     
     @Test
     public void should_say_2_when_input_2() {
-        assertEquals("2", fizzBuzzz.say(2));
+        assertEquals("2", fizzBuzzz.say(2)); 
     }
     
     @Test
@@ -39,8 +39,8 @@ public class FizzBuzzTest {
     }
     
     @Test
-    public void should_say_7_when_input_7() {
-        assertEquals("7", fizzBuzzz.say(7));
+    public void should_say_Java_when_input_7() {
+        assertEquals("Java", fizzBuzzz.say(7));
     }
     
     @Test
