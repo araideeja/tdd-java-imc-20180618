@@ -11,7 +11,7 @@
   * Unit testing
   * Integration Unit testing
   * Spring Boot Testing (API Testing)
-* Working with Apache Maven
+* Working with Apache Maven  [see more detail](https://github.com/up1/tdd-java-imc-20180618/wiki)
   * Project structure with Apache Maven
   * mvn clean test  #Testing
   * mvn spring-boot:run #Start Spring Boot Application
